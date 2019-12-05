@@ -1,0 +1,17 @@
+
+
+/.idea/*
+/client/*
+/client
+/client-bak/*
+/cmd/aboutone/data/*
+/cmd/mattermost/data/*
+/cmd/aboutone/aboutone
+/data/*
+/plugins/*
+/plugins-bak/*
+
+
+*.log
+*.zip
+*.exe

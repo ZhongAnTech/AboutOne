@@ -1,0 +1,106 @@
+.setting__display .ant-radio-group {
+  width: 612px; }
+
+.setting__display .theme .ant-radio-wrapper {
+  position: relative;
+  padding-left: 62px;
+  display: inline-block;
+  width: 152px;
+  height: 120px; }
+  .setting__display .theme .ant-radio-wrapper span:last-child {
+    position: absolute;
+    top: 0;
+    left: -12px; }
+  .setting__display .theme .ant-radio-wrapper .ant-radio {
+    margin-top: 94px; }
+    .setting__display .theme .ant-radio-wrapper .ant-radio::after {
+      display: none; }
+
+.settings__general .ant-card {
+  width: 400px;
+  font-size: 12px;
+  border-radius: 24px;
+  box-shadow: 0 1px 5px #E9E9E9; }
+
+.settings__general .user_base_info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px; }
+  .settings__general .user_base_info h3 {
+    font-size: 28px;
+    margin-bottom: 8px; }
+    .settings__general .user_base_info h3 span {
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      background-size: 100%;
+      margin-left: 8px; }
+      .settings__general .user_base_info h3 span.male {
+        background-image: url(/static/files/1f89617c2c4f4a8f840482715bd48317.svg); }
+      .settings__general .user_base_info h3 span.female {
+        background-image: url(/static/files/0d0507d5eb35742595b5e0bcc92ab9a3.svg); }
+  .settings__general .user_base_info p {
+    font-size: 14px;
+    margin-bottom: 0; }
+  .settings__general .user_base_info img {
+    width: 100%;
+    border-radius: 50%; }
+  .settings__general .user_base_info .profile-picture {
+    width: 60px;
+    height: 60px;
+    position: relative; }
+    .settings__general .user_base_info .profile-picture input {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 60px;
+      height: 60px;
+      cursor: pointer;
+      outline: none;
+      z-index: 2; }
+      .settings__general .user_base_info .profile-picture input[disabled] {
+        cursor: not-allowed; }
+    .settings__general .user_base_info .profile-picture span {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      width: 16px;
+      height: 16px;
+      background: url(/static/files/f6ba15b8ce54b2afc6b64fc782f6de23.svg);
+      background-size: 100%;
+      z-index: 1; }
+
+.settings__general .ant-col label {
+  color: #999;
+  margin-right: 10px;
+  font-weight: normal; }
+
+.settings__general .ant-col span {
+  display: inline-block;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 120px;
+  vertical-align: middle; }
+
+.setting__notific .time .ant-checkbox-wrapper {
+  display: inline-block; }
+
+.setting__notific .time .time-pick {
+  border: solid 1px #D8D8D8;
+  border-radius: 12px;
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: -7px; }
+  .setting__notific .time .time-pick .ant-time-picker {
+    width: 85px;
+    height: 26px;
+    line-height: 26px; }
+  .setting__notific .time .time-pick .ant-time-picker-input {
+    border: none;
+    height: 100%;
+    line-height: 26px; }
+
+
+/*# sourceMappingURL=9.1d0bc6417a0c3fa9bbb9.css.map*/

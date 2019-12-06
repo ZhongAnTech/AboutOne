@@ -4,6 +4,8 @@ It's written in Golang and React and runs as a single Linux binary with MySQL or
 
 [![Go version](https://img.shields.io/badge/go-1.12.0-blue.svg)](https://github.com/moovweb/gvm)
 
+![image](https://github.com/GuimingLu/AboutOne/blob/master/images/AboutOne.png)
+
 ## Requirements
 
 | Requirement | Notes              |
